@@ -2,8 +2,8 @@
 
 Solución al reto:
 
-Nombre:
-Usuario Platzi:
+Nombre: Nadia Lopez
+Usuario Platzi: Nadia Lopez
 
 ## Reto:
 

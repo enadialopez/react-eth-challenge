@@ -1,16 +1,16 @@
 {
   "data": {
-    "name": "Melissa Walsh",
+    "name": "Nadia Lopez",
     "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
+    "address": "Buenos Aires, Argentina.",
+    "email": "enadialopez@gmail.com",
+    "website": "https://www.linkedin.com/in/nadia-lopez/",
+    "phone": "(011) 153191-6943",
     "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
     "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
     "certificate": [
       {
-        "date": "Jan 2021",
+        "date": "Jan 2022",
         "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
         "institution": "Platzi",
         "name": "FrontEnd Developer"
@@ -45,27 +45,21 @@
         "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
         "jobTitle": "Frontend",
         "startDate": "Jan 2020"
-      },
-      {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
       }
+
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "percentage": "75%"
+        "name": "HTML",
+        "percentage": "70%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "65%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "90%"
       },
       {
         "name": "React",
@@ -81,7 +75,7 @@
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "percentage": "native"
       },
       {
         "name": "English",
@@ -90,20 +84,12 @@
     ],
     "social": [
       {
-        "name": "facebook",
-        "url": "https://facebook.com/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "https://github.com/enadialopez"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/nadia-lopez/"
       }
     ]
   }
