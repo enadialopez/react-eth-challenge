@@ -14,7 +14,7 @@ const App = () => {
   const [cvData, setCvData] = useState({});
 
   useEffect(() => {
-    getData('data.jason')
+    getData(filename = 'data.json')
       .then(data => setCvData(data.data))
       .catch(error => console.log(error));
   }, [cvData])

@@ -1,6 +1,7 @@
-const getData = async (url) => {
+const getData =  (url) => {
     return fetch(url)
-      .then(body => body.json())
+      .then(response => response.json())
+      .then(data => data.data)
       .catch(error => console.log(error));
   };
   
